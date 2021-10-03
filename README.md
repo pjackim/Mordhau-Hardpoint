@@ -10,11 +10,11 @@
 ---
 ## Getting Started
   1. Read through the [uSDK Guide](https://docs.google.com/document/d/13Gxjejw_94BPU9sttrUdj4uUDlOfvO9bnmUiE_SXdi0/edit?usp=sharing)
-  2. Download the latest release
+  2. Download the latest [release](https://github.com/pjackim/Mordhau-Hardpoint/releases)
   3. Import Hardpoint into your Mordhau uSDK
-     1. `Hardpoint -> /Mordhau/Content/Mordhau/Maps/`
+     1. `Mordhau-Hardpoint -> /Mordhau/Content/Mordhau/Maps/`
      2. This directory should be valid <br>
-         `/Mordhau/Content/Mordhau/Maps/Hardpoint/`
+         `/Mordhau/Content/Mordhau/Maps/Mordhau-Hardpoint/`
 ---
 ## Building A Map 
   1. Design your map
